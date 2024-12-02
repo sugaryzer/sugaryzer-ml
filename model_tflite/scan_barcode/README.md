@@ -1,4 +1,4 @@
-SCAN BARCODE - PYTESSERACT & EASYOCR
+# SCAN BARCODE - PYTESSERACT & EASYOCR
 
 Description:
 This is a simple OCR (Optical Character Recognition) API built with Flask, Tesseract, and EasyOCR. The API processes images and extracts text using two different OCR tools: Tesseract and EasyOCR.
