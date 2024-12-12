@@ -93,6 +93,3 @@ python run_prediction.py --data_path path/to/data.csv
 Navigate to the `deploy_flask` folder and run:
 ```bash
 python app.py
-```
-
----
